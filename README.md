@@ -46,7 +46,7 @@ GIF created with Imgur.
 
 ## Notes
 
-The debugging involved with this app challenged allow me to learn more about error types in Kotlin and debugging tools!
+The debugging involved with this app challenged allow me to learn more about error types in Kotlin and debugging tools.
 
 ## License
 
