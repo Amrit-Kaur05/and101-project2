@@ -33,9 +33,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/CGlv2j9.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/1X7qDxT.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+Link: https://imgur.com/a/CGlv2j9
+
+GIF created with Imgur.
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -44,7 +46,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+The debugging involved with this app challenged allow me to learn more about error types in Kotlin and debugging tools!
 
 ## License
 
